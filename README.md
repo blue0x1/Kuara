@@ -19,7 +19,7 @@
 
 ## Prerequisites
 <br> 
-- A Windows OS (due to its reliance on Winsock2 and Windows-specific command integrations).
+- A Windows OS 
 - g++ compiler (supporting C++11 or newer).
 
 ## Compilation
