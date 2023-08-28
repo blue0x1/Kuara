@@ -15,7 +15,7 @@
 
 - **Web Interface**: Command execution through a browser.
 - **URL Decoding**: Ensures precise command interpretation.
-- **FUD (Fully Undetectable)**: As of its last iteration, Kuara is undetectable by common threat detection systems. However, always verify against up-to-date threat detection platforms.
+- **FUD (Fully Undetectable)**: As of its last iteration, Kuara is undetectable.
 
 ## Prerequisites
 <br> 
