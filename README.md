@@ -19,7 +19,8 @@
 
 ## Prerequisites
 <br> 
-- A Windows OS 
+
+- Windows OS <br>
 - g++ compiler (supporting C++11 or newer).
 
 ## Compilation
