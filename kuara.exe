@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuara</title>
+<style>
+body{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: #1b1f23;   
+    color: #f2e6d9;   
+}
+#container{
+    max-width:600px;
+    margin:50px auto;
+    padding:20px;
+    border-radius:10px;
+    background-color: #8b0000;   
+    border: 2px solid #c0a080;   
+}
+input[type='text']{
+    width:80%;
+    padding:5px;
+    margin-right:10px;
+    border: 1px solid #c0a080;  
+    border-radius:3px;
+    background-color: #1b1f23;   
+    color: white;  
+}
+input[type='submit']{
+    padding:5px 10px;
+    background-color: #c0a080;   
+    color: #1b1f23; 
+    border: 1px solid #c0a080;   
+    border-radius:3px;
+}
+#outputBox{
+    background-color: #1b1f23;   
+    padding:10px;
+    border-radius:5px;
+    word-wrap:break-word;
+    white-space: pre-wrap;
+    color: #f2e6d9;  // Parchment text color
+    border-top: 2px dashed #c0a080;  // Aged gold
+    margin-top: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow-x: scroll;
+    margin-top: 10px;
+}
+h1{
+    text-align:center;
+    color: #f2e6d9;  // Parchment text color
+    font-size: 2.0em;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 2px #8b0000;  // Dark Spartan red shadow
+}
+pre {
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9em;
+    margin:10px;
+}
+
+
+
+::-webkit-scrollbar {
+    height: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #D43A3A;
+    border: 3px solid #1a1a1d;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #b02f32;
+}
+
+</style>
+
+</head>
+<body>
+<div id='container'>
+<h1>Kuara</h1>
+<form method='get'><input type='text' name='query4055' placeholder='Enter query'><input type='submit' value='Search'></form></div></body></html>
